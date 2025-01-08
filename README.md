@@ -88,6 +88,9 @@ plt.show()
 **Key findings from the analysis include:**
 
 **Mission Cost Trends:** Mission costs have increased over time, with colonization missions being the most expensive.
+
 **Success Rates:** Missions to closer targets (e.g., Mars) have higher success rates compared to distant targets (e.g., Betelgeuse).
+
 **Fuel Efficiency:** Launch vehicles like Starship and Falcon Heavy demonstrate better fuel efficiency compared to SLS.
+
 **ROI:** Mining missions tend to have the highest return on investment (ROI) in terms of scientific yield per cost.
